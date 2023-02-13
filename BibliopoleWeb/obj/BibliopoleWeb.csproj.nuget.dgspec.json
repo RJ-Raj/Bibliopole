@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/RA20382082/Projects/BibliopoleWeb/BibliopoleWeb/BibliopoleWeb.csproj": {}
+  },
+  "projects": {
+    "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/Bibliopole.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/Bibliopole.DataAccess.csproj",
+        "projectName": "Bibliopole.DataAccess",
+        "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/Bibliopole.DataAccess.csproj",
+        "packagesPath": "/Users/RA20382082/.nuget/packages/",
+        "outputPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/RA20382082/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj": {
+                "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj"
+              },
+              "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj": {
+                "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj",
+        "projectName": "Bibliopole.Models",
+        "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj",
+        "packagesPath": "/Users/RA20382082/.nuget/packages/",
+        "outputPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/RA20382082/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj",
+        "projectName": "Bibliopole.Utility",
+        "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj",
+        "packagesPath": "/Users/RA20382082/.nuget/packages/",
+        "outputPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/RA20382082/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/RA20382082/Projects/BibliopoleWeb/BibliopoleWeb/BibliopoleWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RA20382082/Projects/BibliopoleWeb/BibliopoleWeb/BibliopoleWeb.csproj",
+        "projectName": "BibliopoleWeb",
+        "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/BibliopoleWeb/BibliopoleWeb.csproj",
+        "packagesPath": "/Users/RA20382082/.nuget/packages/",
+        "outputPath": "/Users/RA20382082/Projects/BibliopoleWeb/BibliopoleWeb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/RA20382082/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/Bibliopole.DataAccess.csproj": {
+                "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.DataAccess/Bibliopole.DataAccess.csproj"
+              },
+              "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj": {
+                "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/Bibliopole.Models.csproj"
+              },
+              "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj": {
+                "projectPath": "/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Utility/Bibliopole.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.RazorPages": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[40.11.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

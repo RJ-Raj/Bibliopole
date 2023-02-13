@@ -1,0 +1,12 @@
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/bin/Debug/net6.0/Bibliopole.Models.deps.json
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/bin/Debug/net6.0/Bibliopole.Models.dll
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/bin/Debug/net6.0/Bibliopole.Models.pdb
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.csproj.AssemblyReference.cache
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.AssemblyInfoInputs.cache
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.AssemblyInfo.cs
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.csproj.CoreCompileInputs.cache
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.dll
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/refint/Bibliopole.Models.dll
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/Bibliopole.Models.pdb
+/Users/RA20382082/Projects/BibliopoleWeb/Bibliopole.Models/obj/Debug/net6.0/ref/Bibliopole.Models.dll

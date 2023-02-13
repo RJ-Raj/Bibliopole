@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{E0CDF765-F5D4-483F-A16A-C58C9097AB57}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BibliopoleWeb/Areas/Admin/Views/Order/Index.cshtml">
+    <Files>
+      <File FileName="Bibliopole.Utility/EmailSender.cs" />
+      <File FileName="BibliopoleWeb/Areas/Customer/Controllers/CartController.cs" />
+      <File FileName="BibliopoleWeb/Areas/Identity/Pages/Account/Manage/Email.cshtml" Line="29" Column="84" />
+      <File FileName="BibliopoleWeb/Areas/Admin/Views/Product/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BibliopoleWeb/Areas/Admin/Views/Order/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BibliopoleWeb/Areas/Admin/Views/Order/Details.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BibliopoleWeb" expanded="True">
+            <Node name="Bibliopole.DataAccess" expanded="True">
+              <Node name="DbInitializer" expanded="True" />
+            </Node>
+            <Node name="Bibliopole.Utility" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BibliopoleWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Order" expanded="True">
+                      <Node name="Index.cshtml" selected="True" />
+                    </Node>
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Manage" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BibliopoleWeb PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
